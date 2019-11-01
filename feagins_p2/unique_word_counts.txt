@@ -1,0 +1,7 @@
+help 6
+view 2
+file 2
+edit 2
+format 2
+word 6
+laugh 2
